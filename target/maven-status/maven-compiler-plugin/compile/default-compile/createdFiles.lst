@@ -1,0 +1,4 @@
+com/amazonaws/util/DynamoDBUtil.class
+com/amazonaws/util/DBUtil.class
+com/amazonaws/util/AppCoUtil.class
+com/amazonaws/lambda/utility/UtilityHandler.class
